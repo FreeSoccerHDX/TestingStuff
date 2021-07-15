@@ -1,0 +1,7 @@
+main: de.freesoccerhdx.testingstuff.main.TestingStuff
+name: TestingStuff
+version: 1.0
+author: FreeSoccerHDX
+api-version: 1.17
+description: Test the shit in Minecraft 
+load: STARTUP
